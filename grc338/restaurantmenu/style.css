@@ -1,14 +1,14 @@
 h1{
-  color: #6495ED;
-  font-size:5em;
-  text-align: center;
-  font-family: sans-serif;
+    color: #6495ED;
+    font-size:5em;
+    text-align: center;
   
 }
 
 body{
 
- text-align:center;
+    text-align: center;
+    margin: 2em 0em 2em 0em;
 
 }
 
@@ -16,8 +16,16 @@ body{
 h2{
     color: rgb(255,255,255);
     background-color: #6495ED;
-    padding: 0.5em 5em .5em 2em;
+    padding: 0.5em 2em .5em 2em;
+    font-family: sans-serif;
 
+
+}
+
+h3{
+
+  color: #f5f5dc;  
+  font-family: sans-serif;
 
 }
 
