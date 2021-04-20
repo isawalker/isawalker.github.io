@@ -44,3 +44,15 @@ p{
     color: rgb(150,150,150);
 
 }
+
+ul{
+
+    padding: 0;
+
+}
+
+li{
+  
+  list-style: none;
+
+}
