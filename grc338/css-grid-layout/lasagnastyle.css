@@ -1,0 +1,104 @@
+/*CSS DOCUMENT*/
+
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} /*My edited version of the Eric Meyer’s reset tool. Feel free to keep it or delete it. */
+
+div.container {
+    display: grid;
+    max-width: 50em;
+    /* replace XXem with anything between 30 and 50 em*/
+    margin: auto;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: .5fr 2fr 3fr .5fr;
+}
+
+header {
+    grid-column: 1/5;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: serif;
+    color: rgb(255,255,255);
+    background-color: #3f4868;
+    padding: 1em 0.5em 0.25em 0.5em;
+}
+
+h2 {
+    font-size: 1em;
+    color: rgb(128,128,128);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 1em 2em 1em 2em;
+
+}
+
+figure {
+    display: grid;
+    grid-template-columns: 75% auto;
+    column-gap: 1em;
+    grid-row: 2/3;
+    grid-column: 1/5;
+}
+
+img {
+    width: 100%; /*Please leave this line.*/
+    grid-column: 1/2; 
+    grid-row: span;
+}
+
+figcaption {
+    color: rgb(128,128,128);
+    font-family: sans-serif;
+    font-size: .75em;
+    margin: auto;
+    grid-column: 2/3;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-row: 3/4;
+    grid-column: 1/5;
+}
+
+h3 {
+    color: rgb(128,128,128);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 1em 0 2em 0;
+}
+
+.ingredients {
+    background-color: #3f4868;
+    padding: 1.5em 1em 1.5em 2em;
+    color: rgb(255,255,255);
+    grid-column: 1/2;
+
+}
+
+li {
+    list-style: none;
+    margin-bottom: 1em;
+}
+
+.directions {
+    padding: 1.5em 1em 1.5em 2em;
+    color: #3f4868;
+    grid-column: 2/3;
+
+}
+
+footer {
+    grid-column: 1/5;
+    grid-row: 4/5;
+}
+
+h6 {
+    background-color: #3f4868;
+    color: rgb(255,255,255);
+    padding: 4em 0 2em 2em;
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
+ 
