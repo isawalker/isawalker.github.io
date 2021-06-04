@@ -1,0 +1,128 @@
+/*CSS DOCUMENT*/
+
+div.container {
+    font-family: houschka-rounded, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-left: 1.5em;
+
+}
+
+h1 {
+    width: 40%;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+h2{
+    font-family: houschka-rounded, sans-serif;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: rgb(85,107,47);
+    margin-top: 0;
+}
+
+nav ul{
+    padding: 0;
+    margin-bottom: 0.5em;
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+    font-size: 1em;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+nav ul li a{
+    color: rgb(114,102,88);
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: #cccccc;
+}
+
+figure{
+    margin: 0;
+}
+    
+img{
+    width: 100%; 
+}
+
+figcaption{
+    font-size: 0.85em;
+    color: rgb(114,102,88);
+    font-style: italic;
+}
+
+ul{
+    margin-top: 0;
+    margin-bottom: 3em;
+}
+
+ul li{
+    list-style-type: none;
+    font-size: 1em;
+    font-weight: 300;
+    font-style: normal;
+    margin-bottom: 1em;
+}
+
+h3{
+    color:rgb(85,107,47);
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+
+}
+
+main{
+    margin-bottom: 2em;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+h4{
+    color:rgb(114,102,88);
+    font-size: 1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25em;
+    margin-top: 0;
+}
+span.phrase{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.05em;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(114,102,88);
+}
+
+h5{
+    color:rgb(85,107,47);
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-top: .75em;
+}
+
+footer{
+    font-size: 1em;
+    color: rgb(255,255,255);
+    font-style: italic;
+    font-weight: 200;
+    background-color: rgb(85,107,47);
+    padding: .5em .5em .75em 1em;
+
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
