@@ -1,0 +1,240 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css"> 
+        <title>Isabella Walker - Final project proposal</title>
+
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>Curtain Call Dance</p>
+            
+            <p>This company, Curtain Call Dance, is a dance studio that will offer an array of dance styles for different ages and levels.</p>
+            
+            <h2>Target audience</h2>
+            
+            <p>The target audience for this website will be parents and supporters of children in the local area who are interested in getting their children involved in a dance program or enroll in dance classes.</p>
+           
+            <p>The primary goal of the user is to gain more knowledge and information about our studio. This would include the types of classes we offer and the different levels and age ranges. They would also want to know prices and price packages for lessons as well as different opportunities we might provide such as summer intensives, recitals, competition teams or connections to professional dance companies or dance schools. First time users will probably compare our website in making a decision over wether or not to enroll. Returning or regular users will know how to navigate the website very easily and will want to be made aware of any changes or updates.</p>
+            
+            <p>Another Task of the website would be for parents to actually be able to register their students for classes on the website and pay online. There would also be a visible calendar so parents know which classes happen when and are aware of upcoming events.</p>
+            
+            <h2>Comparative analysis</h2>
+            
+   
+            
+            <h3>Core Dance SLO</h3>
+           
+            <p><a href="https://coredanceslo.com/">coredanceslo.com</a></p>
+            
+            <img src="images/coredance-1.png" alt="Screenshot of the Home page of the Core Dance website." title="coredance-1"/>
+            
+            <img src="images/coredance-2.png" alt="Screenshot of the Contact page of the Core Dance website." title="coredance-2"/>
+
+            <h3>Tapio School of Dance & Gymnastics</h3>
+           
+            <p><a href="https://www.tapioschool.com/">tapioschool.com</a></p>
+            
+            <img src="images/tapio-1.png" alt="Screenshot of the Home page of the Tapio website." title="tapio-1"/>
+            
+            <img src="images/tapio-2.png" alt="Screenshot of a secondary menu in the Home page of the Tapio website." title="tapio-2"/>
+
+
+            <h3>The Dance Club</h3>
+           
+            <p><a href="http://thedanceclub.com/">thedanceclub.com</a></p>
+            
+            <img src="images/thedanceclub-1.png" alt="Screenshot of the Home page of the Dance Club website." title="thedanceclub-1"/>
+            
+            <img src="images/thedanceclub-2.png" alt="Screenshot of the Calendar page of the Dance Club website." title="thedanceclub-2"/>
+
+
+            <h2>Website content</h2>
+           
+           
+           <nav>
+                 <ul>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Calendar</li>
+                    <li>Tuition</li>
+                    <li>Instructors</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+            
+            <section>
+				
+					<p>Welcome to Curtain Call! We're so happy you're here. With our state of the art facilities, high class choreographers, talented dancers and friendly atmosphere, we're sure you'll be as happy as we are.</p><!-- This is a placeholder! Change it to the actual content of your page. -->
+			  
+					<p>[Four Contemporary Dancers]</p>
+				
+            </section>
+            
+            <section>
+            
+					<h1>About</h1>
+
+					<p>[A group of ballerinas in white tutus performing]</p>
+					
+                    <p>Started in 2010, our studio began as an intensive ballet and Jazz program with only two instructors and eleven dancers. Now, we have tripled our staff and grown our dancer base tremendously. We offer a wide range of styles at mutiple levels.</p><!-- This is a placeholder! Change it to the actual content of your page. -->
+			  
+                    <h2>What we Offer</h2>
+
+                    <ul>
+                        <li>Ballet</li>
+                        <li>Jazz</li>
+                        <Li>Contemporary</Li>
+                        <li>Tap</li>
+                        <li>Hip Hop</li>
+                        <li>Musical Theater</li>
+                    </ul>
+
+                    <h2>Levels</h2>
+
+                    <ul>
+                        <li>Littles (3-5 yrs), (4-6 yrs)</li>
+                        <li>Beginner (7-9yrs), (8-10yrs)</li>
+                        <li>Intermediate (10-12 yrs), (11-14 yrs)</li>
+                        <li>Advanced (15-18 yrs)</li>
+                    </ul>
+
+                    <p>Feel free to join a class based on your child's age range. However, after the initial class and assessment of their skill, it will be determined if it is the best fit for them. We are more than willing to make necessary accomodations to ensure that your child is comfortable and dancing in their proper level.</p>
+				
+            </section>
+            
+            <section>
+            
+                    <h1>Calendar</h1>
+                
+                    <p>[calendar]</p>
+                    
+                    <p>For any questions regarding our schedule, feel free to contact us [links to contact page]</p>
+            
+                    <p>[Dancers in the studio]</p>
+                
+            </section>
+            
+            <section>
+            
+                    <p>[Tiny ballerina shoes on the dance floors]</p>
+
+                    <h1>Tuition</h1>
+
+                    <h2>priced by Month</h2>
+                
+                    <ul>
+                        <li>
+                            <p>One class a week</p>
+                            <p>$100</p>
+                        </li>
+
+                        <li>
+                            <p>3-5 classes a week</p>
+                            <p>$250</p>
+                        </li>
+
+                        <li>
+                            <p>8-10 classes a week</p>
+                            <p>$450</p>
+                        </li>
+
+                        <li>
+                            <p>Private Lessons</p>
+                            <p>$40 per hour</p>
+                        </li>
+                    </ul>
+
+                    <p>$60 a month for any additional class beyond these packages</p>
+            
+
+                
+            </section>
+
+            <section>
+            
+                    <h1>Instructors</h1>
+                    
+                    <ul>
+                        <li>
+                            <h2>Director</h2>
+                            <p>[headshot director]</p>
+                            <p>Genevieve Boudin</p>
+                        </li>
+
+                        <li>
+                            <h2>Choreographer</h2>
+                            <p>[headshot choreographer 1]</p>
+                            <p>Marcus Arquette</p>
+                        </li>
+
+                        <li>
+                            <h2>Choreographer</h2>
+                            <p>[headshot choreographer 2]</p>
+                            <p>Brena Rivera</p>
+                        </li>
+
+                        <li>
+                            <h2>Dance Instructor</h2>
+                            <p>[headshot instructor 1]</p>
+                            <p>Lucille Carter</p>
+                        </li>
+
+                        <li>
+                            <h2>Dance Instructor</h2>
+                            <p>[headshot instructor 2]</p>
+                            <p>Alice Lee</p>
+                        </li>
+                        <li>
+                            <h2>Dance Instructor</h2>
+                            <p>[headshot instructor 3]</p>
+                            <p>Damitrius Green</p>
+                        </li>
+                    </ul>
+            
+                
+            </section>
+
+            <section>
+                
+                    <h1>Contact</h1>
+                
+                    <ul>
+                        <li>
+                            <h2>Phone</h2>
+                            <p>661-925-8174</p>
+                        </li>
+
+                        <li>
+                            <h2>Email</h2>
+                            <p>curtaincall@gmail.com</p>
+                        </li>
+
+                        <li>
+                            <h2>Address</h2>
+                            <p>1 Grand Ave.</p>
+                            <p>San Luis Obsipo, CA</p>
+                        </li>
+
+                        <li>
+                            <h2>Hours</h2>
+                            <p>Monday - Friday</p>
+                            <p>10am - 8pm</p>
+                        </li>
+                    </ul>
+            
+                    <p>[Hip Hop dancers posing]</p>
+            
+            </section>
+ 
+        </div>
+    </body>
+</html>
