@@ -118,13 +118,18 @@ figcaption {
 
     section.mainstory{
         grid-column: 1/3;
-        grid-row: 1/3;
         margin-bottom: 0;
     }
 
+    }
+
+    section.storytwo {
+        grid-column: 2/3;    
+    }
+    
     section.storythree {
         grid-column: 1/2;
-        grid-row:3/4;
+        grid-row: 2/3;
     }
 
     aside{
@@ -151,6 +156,5 @@ figcaption {
     p {
         margin-bottom: 0;
     }
-
 
 }
