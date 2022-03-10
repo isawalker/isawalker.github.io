@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="https://use.typekit.net/qxs2kbl.css">
+        <title>PleinAir</title>
+        <!-- ★ Please include a proper title.-->
+        <!-- Helpful meta tags to fight GitHub aggresive caching-->
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+     </head>
+    <body>
+    
+            <header class="news">
+                <h1> 
+                   <a href="index.html">
+                   <img src="images/logo.png" alt="Logo for PleinAir."> 
+                   </a>
+                </h1>
+                <nav>
+                   <ul>
+                      <!-- ★ Use as many sections as you want, but replace the dashed lines with actual names for the sections of the publication. You may keep them all linked to the pound symbol, though. -->
+                      <li><a href="#">Community</a></li>
+                      <li><a href="#">Culture</a></li>
+                      <li><a href="#">Recreation</a></li>
+                      <li><a href="newsletter.html">Subscribe</a></li>
+                   </ul>
+                </nav>
+             </header>
+
+            <div class="container">
+
+			<main class="news">
+
+            <h2>Subscribe to PleinAir's Newsletter</h2>
+                
+            <form>
+                <section class="personal">
+                    <h3>Personal Information</h3>
+                    <ul>
+                        <li><label for="name">Name:</label> <input type="text" name="name" id="name" placeholder="your full name" /></li>
+                        <li><label for="email">Email:</label> <input type="email" name="email" id="email" placeholder="your email" /></li>
+                        <li><label for="phone">Phone:</label> <input type="tel" name="phone" id="phone" placeholder="your phone number" /></li>
+                    </ul>
+                </section>
+
+                <section class="content">
+                    <h3>What type of content are you interested in?</h3>
+
+                    <ul>
+                        <li><input type="checkbox" id="community" value="community" /> <label for="community">Community</label></li>
+                        <li><input type="checkbox" id="culture" value="culture" /> <label for="culture">Culture</label></li>
+                        <li><input type="checkbox" id="recreation" value="recreation" /> <label for="recreation">Recreation</label></li>
+                    </ul>
+
+                    <h3>How did you hear about PleinAir?</h3>
+                    <ul>
+                        <li><input type="checkbox" id="instagram" value="instagram" /> <label for="instagram">Instagram</label></li>
+                        <li><input type="checkbox" id="tiktok" value="tiktok" /> <label for="tiktok">TikTok</label></li>
+                        <li><input type="checkbox" id="twitter" value="twitter" /> <label for="twitter">Twitter</label></li>
+                        <li><input type="checkbox" id="youtube" value="youtube" /> <label for="youtube">YouTube</label></li>
+						<li><input type="checkbox" id="online-search" value="online-search" /> <label for="online-search">Online search</label></li>
+						<li><input type="checkbox" id="word" value="word" /> <label for="word">Word of mouth</label></li>
+                    </ul>
+                </section>
+           
+                <section class="comments"><label for="comments">Please leave any comments or special requests below.</label><textarea id="comments" name="comments"></textarea></section>
+                <section>
+                    <button type="submit">Submit</button>
+                </section>
+            </form>
+			</main>
+            <footer>
+                <p> All rights reserved.</p>
+             </footer>
+        </div>
+    </body>
+</html>
