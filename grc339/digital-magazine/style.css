@@ -304,3 +304,11 @@ figcaption {
     }
   
   }
+
+@media only screen and (min-width: 40em) {
+
+    div.container {
+      margin: auto;
+    }
+  
+  }
